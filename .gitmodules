@@ -1,0 +1,3 @@
+[submodule "hypatia"]
+	path = hypatia
+	url = git@github.com:dagostinelli/hypatia.git

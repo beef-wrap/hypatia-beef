@@ -1,0 +1,10 @@
+FileVersion = 1
+
+[Project]
+Name = "hypatia-beef"
+TargetType = "BeefLib"
+StartupObject = "hypatia_beef.Program"
+
+[Configs.Debug.Win64]
+CLibType = "DynamicDebug"
+LibPaths = ["$(ProjectDir)\\libs\\hypatia.lib"]
