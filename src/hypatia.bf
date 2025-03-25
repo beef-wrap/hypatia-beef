@@ -3,7 +3,7 @@
 using System;
 using System.Interop;
 
-namespace hypatia_Beef;
+namespace hypatia;
 
 public static class hypatia
 {

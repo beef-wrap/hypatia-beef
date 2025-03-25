@@ -5,7 +5,7 @@ using System.IO;
 using System.Interop;
 using System.Text;
 
-using static hypatia_Beef.hypatia;
+using static hypatia.hypatia;
 
 namespace example;
 
