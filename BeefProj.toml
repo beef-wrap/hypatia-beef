@@ -5,8 +5,7 @@ Name = "hypatia-beef"
 DefaultNamespace = "hypatia"
 
 [Configs.Debug.Win64]
-CLibType = "DynamicDebug"
-LibPaths = ["$(ProjectDir)\\libs\\windows\\hypatiad.lib"]
+LibPaths = ["$(ProjectDir)\\libs\\windows\\x64\\hypatia_d.lib"]
 
 [Configs.Release.Win64]
-LibPaths = ["$(ProjectDir)\\libs\\windows\\hypatia.lib"]
+LibPaths = ["$(ProjectDir)\\libs\\windows\\x64\\hypatia.lib"]
